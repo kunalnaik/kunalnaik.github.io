@@ -12,14 +12,23 @@ I have created this website/blog to document projects I've worked on, share thin
 
 ## Education
 
-* Computer Engineering at University of California, Santa Barbara.
-* Monta Vista High School.
++ Computer Engineering at University of California, Santa Barbara  - `June 2018`
+  - **Awards:** Dean's List, UCSB Writing Department's Excellence in Technical/Engineering Writing Award
+* Monta Vista High School - `June 2014`
+  - **Awards:** Cisco Tech Challenge 2013 - 2nd place for Engineering Journal  
+
+## Activities
++ UCSB Dhadkan - South Asian Philanthropy Organization
+  - Production Director  
+* Coders SB  
+* UCSB IEEE  
+* UCSB Cycling Club
 
 ## Skills
 
-* Web Development - `HTML` / `CSS` / `JS`
-* Mobile - `Android`
-* Languages - `JAVA` / `C++` / `Python`
+* Web Development - `HTML` / `CSS` / `JS` / `Ruby on Rails`
+* Mobile Development - `Android`
+* Languages - `JAVA` / `C++` / `Python` / `SQL`
 
 <br>
 <a href="https://1drv.ms/b/s!Aj21uSXyMDjVyxfvxfW7YSPPE_Lq"><button class="res-btn" href="https://1drv.ms/b/s!Aj21uSXyMDjVyxfvxfW7YSPPE_Lq">Resume</button></a>

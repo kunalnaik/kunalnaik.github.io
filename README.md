@@ -1,2 +1,1 @@
-# kunalnaik.github.io
-My Website
+My personal website.
