@@ -16,7 +16,7 @@ the initial setup of the Intel Edison (flashing and getting access to the termin
 
 For this project you will need an Intel Edison, a [base block](https://www.sparkfun.com/products/13045), a micro-usb cable for power/console, and another micro-usb cable for OTG.  
 
-1) First you need put all the hardware together, fortunately its really simple. Insert your Edison into your base board, and then plug in the two micro-usb cables into the board and your computer.  
+1) First you need put all the hardware together, fortunately it's really simple. Insert your Edison into your base board, and then plug in the two micro-usb cables into the board and your computer.  
 
 2) Next you need to download and run the configuration tool from [intel's website](https://software.intel.com/en-us/iot/hardware/edison/downloads). This is also pretty straightforward, just follow
 the onscreen instructions to install drivers, flash the latest firmware, enable ssh security, and connect to wifi. You should come to a screen that looks like this:
