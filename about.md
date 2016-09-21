@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey there, my name is Kunal Naik and I'm a third year computer engineering student at the University of California, Santa Barbara. Welcome to my corner of the internet!  
 
-I have a growing interest in web development, cloud computing, and the internet of things. My hobbies extend to watching football, playing soccer, pc gaming, Game of Thrones, and following hacker news. You will likely find a bit of all this on my site!
+I have a growing interest in software development, big data, and IoT. My hobbies extend to watching football, playing soccer, pc gaming, Game of Thrones, and following hacker news. You will likely find a bit of all this on my site!
 
 I have created this website/blog to document projects I've worked on, share things I find interesting, and provide my two cents on trending topics. Thanks for reading!
 
@@ -18,17 +18,16 @@ I have created this website/blog to document projects I've worked on, share thin
   - **Awards:** Cisco Tech Challenge 2013 - 2nd place for Engineering Journal  
 
 ## Activities
-+ UCSB Dhadkan - South Asian Philanthropy Organization
-  - Production Director  
+* UCSB Dhadkan (South Asian Philanthropy Organization)
 * Coders SB  
 * UCSB IEEE  
 * UCSB Cycling Club
 
 ## Skills
 
-* Web Development - `HTML` / `CSS` / `JS` / `Ruby on Rails`
+* Web Development - `HTML` / `CSS` / `JS` `(MEAN Stack)`
 * Mobile Development - `Android`
 * Languages - `JAVA` / `C++` / `Python` / `SQL`
 
 <br>
-<a href="https://1drv.ms/b/s!Aj21uSXyMDjVyxfvxfW7YSPPE_Lq"><button class="res-btn" href="https://1drv.ms/b/s!Aj21uSXyMDjVyxfvxfW7YSPPE_Lq">Resume</button></a>
+<a href="https://1drv.ms/b/s!Aj21uSXyMDjVgbt3BzT_eocTE06kIg"><button class="res-btn" href="https://1drv.ms/b/s!Aj21uSXyMDjVgbt3BzT_eocTE06kIg">Resume</button></a>
