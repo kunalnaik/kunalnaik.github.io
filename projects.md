@@ -4,10 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-### Gaucho Essentials  
-I am currently developing a Android application to centralize essential resources for students at UCSB. Check back regularly for updates!  
+---
 
-<a href="https://github.com/kunalnaik/gaucho-essentials"><button class="res-btn" href="https://github.com/kunalnaik/gaucho-essentials">View Project</button></a>  
+### psychicBreaker  
+A remake of the classic game made popular by Blackberry that uses the Phaser.io game framework and webgazer.js to provide eye tracking  control.
+
+I worked on this project during my winter break 2016, and while I was able to use webgazer as a control for the paddle, I found that
+it was inconsistent in recognizing eyes within the face (however when recognized, it is accurate). Another issue I encountered was
+smoothening the predictions to prevent jittery paddle control.
+
+<a href="https://github.com/kunalnaik/psychicBreaker"><button class="res-btn" href="https://github.com/kunalnaik/psychicBreaker">View Project</button></a>  
 
 ---  
 
